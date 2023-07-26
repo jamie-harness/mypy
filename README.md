@@ -1,7 +1,7 @@
 <img src="docs/source/mypy_light.svg" alt="mypy logo" width="300px"/>
 
 Mypy: Static Typing for Python
-=======================================
+========================================
 
 [![Stable Version](https://img.shields.io/pypi/v/mypy?color=blue)](https://pypi.org/project/mypy/)
 [![Downloads](https://img.shields.io/pypi/dm/mypy)](https://pypistats.org/packages/mypy)
